@@ -22,3 +22,5 @@ Using face_recognition to turn arduino on-board LED on and off based on the know
 - Change Serial name in **face_rec_live** under:
   **ArduinoConn = serial.Serial("change here", 9600)**
 - Run **face_rec_live**
+
+github_token = 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
